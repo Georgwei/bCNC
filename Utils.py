@@ -63,6 +63,7 @@ __translations__ = \
 		"German - @feistus\n" \
 		"Italian - @onekk\n" \
 		"Japanese - @stm32f1\n" \
+		"Simplified Chinese - @Georgwei\n" \
                 "traditional chinese - @Engineer2Designer\n" \
 		"Portuguese - @moacirbmn \n" \
 		"Russian - @minithc\n" \
@@ -76,6 +77,7 @@ LANGUAGES = {
 		"fr"    : u"Fran\u00e7ais",
 		"it"    : "Italiano",
 		"ja"    : "Japanese",
+                "zh_CN" : "Simplified Chinese",
 		"zh_tw" : "traditional chinese",
 		"pt_BR" : "Brazilian - Portuguese",
 		"ru"    : "Russian",
